@@ -82,7 +82,7 @@ This project is a mostly complete simulation of an e-commerce platform.
 - Concurrency: As a single-user console application, no concurrency control is implemented. Multiple simultaneous operations could lead to data inconsistencies.Product Types: The Product class has a type field, but there's no specific logic or polymorphism based on product type implemented (e.g., different attributes or behaviors for 'Electronics' vs 'Books').
 ## Manual Introduction
 
-Scamazon is a console-based simulation of an online shopping platform. It allows users to register as Customers or Sellers, or log in as an Administrator, each with a distinct set of capabilities accessed through dedicated text-based portals. The system manages user accounts, product listings, shopping carts, order processing, and basic financial tracking for sellers.
+CLI-Marketplace is a console-based simulation of an online shopping platform. It allows users to register as Customers or Sellers, or log in as an Administrator, each with a distinct set of capabilities accessed through dedicated text-based portals. The system manages user accounts, product listings, shopping carts, order processing, and basic financial tracking for sellers.
 ### How to Use
 - Launch: Run the compiled executable `/build/scamazon`.
 - Main Menu: You'll be presented with options to:
