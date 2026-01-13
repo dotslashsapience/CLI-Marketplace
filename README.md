@@ -1,8 +1,8 @@
-# Scamazon - E-commerce Platform Simulation
+# E-commerce Platform Simulation
 ![LOC](https://img.shields.io/badge/LOC-3899-blue)
 ![Platforms](https://img.shields.io/badge/platforms-Linux--macOS--Windows-brightgreen)
 
-Welcome to Scamazon, a command-line based e-commerce platform simulation written in C++. This project demonstrates core functionalities for customers, sellers, and administrators interacting with an online marketplace using a SQLite database for persistence.
+Welcome to CLI-Marketplace, a command-line based e-commerce platform simulation written in C++. This project demonstrates core functionalities for customers, sellers, and administrators interacting with an online marketplace using a SQLite database for persistence.
 
 ## Compilation Instructions
 
